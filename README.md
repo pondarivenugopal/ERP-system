@@ -14,6 +14,61 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+##Table of Contents
+Introduction
+Prerequisites
+Installation
+Usage
+
+Introduction
+This front-end application is built using React and is designed to provide functionalities for managing products and orders. It includes features such as viewing product details, adding, editing, and deleting products, viewing order details, updating order status, and a calendar view for tracking orders.
+
+Prerequisites
+Before running the application, make sure you have the following installed:
+
+Node.js and npm (Node Package Manager) - Download and Install Node.js
+Git - Download and Install Git
+Installation
+Clone the repository to your local machine:
+
+bash
+Copy code
+git clone <repository-url>
+Navigate to the project directory:
+
+bash
+Copy code
+cd <project-directory>
+Install dependencies using npm:
+
+bash
+Copy code
+npm install
+Usage
+Once the installation is complete, you can start the application:
+
+bash
+Copy code
+npm start
+Open your web browser and navigate to http://localhost:3000 to view the application.
+
+Use the navigation links/buttons to explore different pages such as Products Management and Orders Management.
+
+On the Products Management page, you can add, edit, and delete products.
+
+On the Orders Management page, you can view order details, update order status, and delete orders.
+
+Optionally, navigate to the Orders Calendar View to view orders on their expected delivery dates and click on a date to view all orders due for delivery on that day.
+
+![Home page](./src/images/home.png)
+![products page](./src/images/products.png)
+![orders page](./src/images/orders.png)
+![Home page](./src/images/calendar.png)
+![mobile-home page](./src/images/phone-home.png)
+![mobile-product page](./src/images/phone-products.png)
+![mobile-calandar page](./src/images/phone-calendar.png)
+![mobile-orders page](./src/images/phone-orders.png)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
