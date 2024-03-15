@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ERP-system.git/static/css/main.7ff0846b.css",
+    "main.js": "/ERP-system.git/static/js/main.427fc2d8.js",
+    "static/js/453.5f23178e.chunk.js": "/ERP-system.git/static/js/453.5f23178e.chunk.js",
+    "index.html": "/ERP-system.git/index.html",
+    "main.7ff0846b.css.map": "/ERP-system.git/static/css/main.7ff0846b.css.map",
+    "main.427fc2d8.js.map": "/ERP-system.git/static/js/main.427fc2d8.js.map",
+    "453.5f23178e.chunk.js.map": "/ERP-system.git/static/js/453.5f23178e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff0846b.css",
+    "static/js/main.427fc2d8.js"
+  ]
+}
